@@ -492,6 +492,10 @@ footer .container .footer-menu .menu-div a {
     /* justify-content: center;
     align-items: center; */
   }
+  .common_section .section_flex .left_section img {
+    width: 100%;
+    height: 100%;
+  }
   .common_section .section_flex .left_section {
     width: 100%;
     margin: 0;
@@ -556,6 +560,7 @@ footer .container .footer-menu .menu-div a {
   }
   #section4 .container .section_flex .left_section img {
     width: 100%;
+    height: 100%;
   }
   /* ---------------------end secction4----------------------------------- */
   #section5 .container .section_flex {
@@ -567,6 +572,7 @@ footer .container .footer-menu .menu-div a {
   }
   #section5 .container .section_flex .left_section img {
     width: 100%;
+    height: 100%;
   }
   #section5 .container .section_flex .right_section {
     order: 1;
